@@ -8,11 +8,21 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/kisd-spaces-customize"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/ark-theme"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/kisd-archive-plugin"
 		}
 	],
 	"require": {
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
-		"spaces-kisd/kisd-spaces-customize": "dev-main"
+		"spaces-kisd/kisd-spaces-customize": "dev-main",
+		"spaces-kisd/ark-theme": "dev-main",
+		"spaces-kisd/kisd-archive-plugin": "dev-main"
 	},
 	"minimum-stability": "dev"
 }
