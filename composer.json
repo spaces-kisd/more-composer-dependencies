@@ -2,6 +2,10 @@
 	"name": "spaces/more-composer-dependencies",
 	"repositories": [
 		{
+			"type": "composer",
+			"url": "https://wpackagist.org"
+		},
+		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/kisd-wpmuldap"
 		},
@@ -16,13 +20,20 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/kisd-archive-plugin"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/kisd-secure-file"
 		}
 	],
 	"require": {
+		"wpackagist-plugin/relevanssi": "^4",
+		"wpackagist-plugin/advanced-custom-fields": "^5",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
-		"spaces-kisd/ark-theme": "dev-main",
-		"spaces-kisd/kisd-archive-plugin": "dev-main"
+		"spaces-kisd/ark": "dev-main",
+		"spaces-kisd/kisd-archive-plugin": "dev-main",
+		"spaces-kisd/kisd-secure-file": "dev-main"
 	},
 	"minimum-stability": "dev"
 }
