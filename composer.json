@@ -15,6 +15,10 @@
 		},
 		{
 			"type": "git",
+			"url": "https://github.com/spaces-kisd/vuejs-mapbox-wordpress-theme-starter"
+		},
+		{
+			"type": "git",
 			"url": "https://github.com/spaces-kisd/ark-theme"
 		},
 		{
@@ -30,6 +34,7 @@
 		"wpackagist-plugin/relevanssi": "^4",
 		"wpackagist-plugin/advanced-custom-fields": "^5",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
+		"schuhwerk/vuejs-mapbox-wordpress-theme-starter": "dev-master",
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
