@@ -32,6 +32,10 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/stube"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/kisd-pforte"
 		}
 	],
 	"require": {
@@ -43,7 +47,8 @@
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
 		"spaces-kisd/kisd-secure-file": "dev-main",
-		"spaces-kisd/stube": "dev-main"
+		"spaces-kisd/stube": "dev-main",
+		"spaces-kisd/kisd-pforte": "dev-main"
 	},
 	"minimum-stability": "dev"
 }
