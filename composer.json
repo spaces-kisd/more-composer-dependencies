@@ -36,6 +36,10 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/kisd-pforte"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/kisd-timeline"
 		}
 	],
 	"require": {
@@ -48,7 +52,8 @@
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
 		"spaces-kisd/kisd-secure-file": "dev-main",
 		"spaces-kisd/stube": "dev-main",
-		"spaces-kisd/kisd-pforte": "dev-main"
+		"spaces-kisd/kisd-pforte": "dev-main",
+		"spaces-kisd/kisd-timeline": "dev-main"
 	},
 	"minimum-stability": "dev"
 }
