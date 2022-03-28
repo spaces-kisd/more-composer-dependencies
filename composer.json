@@ -45,6 +45,7 @@
 	"require": {
 		"wpackagist-plugin/relevanssi": "^4",
 		"wpackagist-plugin/advanced-custom-fields": "^5",
+		"wpackagist-plugin/wp-crontrol": "^1.12",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
 		"schuhwerk/vuejs-mapbox-wordpress-theme-starter": "dev-master",
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
