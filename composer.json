@@ -40,18 +40,22 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/kisd-timeline"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/spaces-course-selection"
 		}
 	],
 	"require": {
 		"wpackagist-plugin/relevanssi": "^4",
 		"wpackagist-plugin/advanced-custom-fields": "^5",
-		"wpackagist-plugin/wp-crontrol": "^1.12",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
 		"schuhwerk/vuejs-mapbox-wordpress-theme-starter": "dev-master",
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
 		"spaces-kisd/kisd-secure-file": "dev-main",
+		"spaces-kisd/spaces-course-selection": "dev-main",
 		"spaces-kisd/stube": "dev-main",
 		"spaces-kisd/kisd-pforte": "dev-main",
 		"spaces-kisd/kisd-timeline": "dev-main"
