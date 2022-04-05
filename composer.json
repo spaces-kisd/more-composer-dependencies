@@ -44,6 +44,10 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/spaces-course-selection"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/acf-user-network"
 		}
 	],
 	"require": {
@@ -56,6 +60,7 @@
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
 		"spaces-kisd/kisd-secure-file": "dev-main",
 		"spaces-kisd/spaces-course-selection": "dev-main",
+		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/stube": "dev-main",
 		"spaces-kisd/kisd-pforte": "dev-main",
 		"spaces-kisd/kisd-timeline": "dev-main"
