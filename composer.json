@@ -47,6 +47,10 @@
 		},
 		{
 			"type": "git",
+			"url": "https://github.com/spaces-kisd/kisd-mentoring"
+		},
+		{
+			"type": "git",
 			"url": "https://github.com/spaces-kisd/acf-user-network"
 		}
 	],
@@ -63,7 +67,8 @@
 		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/stube": "dev-main",
 		"spaces-kisd/kisd-pforte": "dev-main",
-		"spaces-kisd/kisd-timeline": "dev-main"
+		"spaces-kisd/kisd-timeline": "dev-main",
+		"spaces-kisd/kisd-mentoring": "dev-main"
 	},
 	"minimum-stability": "dev"
 }
