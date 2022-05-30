@@ -19,7 +19,7 @@
 		},
 		{
 			"type": "git",
-			"url": "https://github.com/spaces-kisd/vuejs-mapbox-wordpress-theme-starter"
+			"url": "https://github.com/spaces-kisd/kisd-partneruniversities"
 		},
 		{
 			"type": "git",
@@ -55,20 +55,20 @@
 		}
 	],
 	"require": {
-		"wpackagist-plugin/relevanssi": "^4",
-		"wpackagist-plugin/advanced-custom-fields": "^5",
-		"spaces-kisd/kisd-wpmuldap": "dev-main",
-		"schuhwerk/vuejs-mapbox-wordpress-theme-starter": "dev-master",
-		"spaces-kisd/kisd-spaces-customize": "dev-main",
+		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
-		"spaces-kisd/kisd-secure-file": "dev-main",
 		"spaces-kisd/kisd-course-selection": "dev-main",
-		"spaces-kisd/acf-user-network": "dev-main",
-		"spaces-kisd/stube": "dev-main",
+		"spaces-kisd/kisd-mentoring": "dev-main",
+		"spaces-kisd/kisd-partneruniversities": "dev-master",
 		"spaces-kisd/kisd-pforte": "dev-main",
+		"spaces-kisd/kisd-secure-file": "dev-main",
+		"spaces-kisd/kisd-spaces-customize": "dev-main",
 		"spaces-kisd/kisd-timeline": "dev-main",
-		"spaces-kisd/kisd-mentoring": "dev-main"
+		"spaces-kisd/kisd-wpmuldap": "dev-main",
+		"spaces-kisd/stube": "dev-main",
+		"wpackagist-plugin/advanced-custom-fields": "^5",
+		"wpackagist-plugin/relevanssi": "^4"
 	},
 	"minimum-stability": "dev"
 }
