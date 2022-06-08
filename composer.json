@@ -68,6 +68,7 @@
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
 		"spaces-kisd/stube": "dev-main",
 		"wpackagist-plugin/advanced-custom-fields": "^5",
+		"wpackagist-plugin/appointment-hour-booking": "1.*",
 		"wpackagist-plugin/relevanssi": "^4"
 	},
 	"minimum-stability": "dev"
