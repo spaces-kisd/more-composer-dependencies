@@ -67,7 +67,7 @@
 		"spaces-kisd/kisd-timeline": "dev-main",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
 		"spaces-kisd/stube": "dev-main",
-		"wpackagist-plugin/advanced-custom-fields": "^5",
+		"wpackagist-plugin/advanced-custom-fields": "^6",
 		"wpackagist-plugin/appointment-hour-booking": "1.*",
 		"wpackagist-plugin/relevanssi": "^4",
 		"wpackagist-plugin/safe-svg": "^2"
