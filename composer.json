@@ -52,9 +52,14 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/acf-user-network"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/ACF-Conditional-Taxonomy-Rules"
 		}
 	],
 	"require": {
+		"mattkeys/acf-conditional-taxonomy-rules": "dev-master",
 		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
