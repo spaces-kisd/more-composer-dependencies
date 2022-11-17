@@ -56,9 +56,14 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/ACF-Conditional-Taxonomy-Rules"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/acf-read-only"
 		}
 	],
 	"require": {
+		"quantity-digital/acf-read-only": "dev-master",
 		"mattkeys/acf-conditional-taxonomy-rules": "dev-master",
 		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/ark": "dev-main",
