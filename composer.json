@@ -60,16 +60,21 @@
 		{
 			"type": "git",
 			"url": "https://github.com/spaces-kisd/acf-read-only"
+		},
+		{
+			"type": "git",
+			"url": "https://github.com/spaces-kisd/kisd-migrate-to-saml"
 		}
 	],
 	"require": {
-		"quantity-digital/acf-read-only": "dev-master",
 		"mattkeys/acf-conditional-taxonomy-rules": "dev-master",
+		"quantity-digital/acf-read-only": "dev-master",
 		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
 		"spaces-kisd/kisd-course-selection": "dev-main",
 		"spaces-kisd/kisd-mentoring": "dev-main",
+		"spaces-kisd/kisd-migrate-to-saml": "dev-main",
 		"spaces-kisd/kisd-partneruniversities": "dev-master",
 		"spaces-kisd/kisd-pforte": "dev-main",
 		"spaces-kisd/kisd-secure-file": "dev-main",
@@ -79,9 +84,9 @@
 		"spaces-kisd/stube": "dev-main",
 		"wpackagist-plugin/advanced-custom-fields": "^6",
 		"wpackagist-plugin/appointment-hour-booking": "1.*",
+		"wpackagist-plugin/duplicate-wp-page-post": "^2",
 		"wpackagist-plugin/relevanssi": "^4",
-		"wpackagist-plugin/safe-svg": "^2",
-		"wpackagist-plugin/duplicate-wp-page-post": "^2"
+		"wpackagist-plugin/safe-svg": "^2"
 	},
 	"minimum-stability": "dev"
 }
