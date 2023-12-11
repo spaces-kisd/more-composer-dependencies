@@ -81,7 +81,6 @@
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
 		"spaces-kisd/kisd-timeline": "dev-main",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
-		"spaces-kisd/stube": "dev-main",
 		"wpackagist-plugin/advanced-custom-fields": "^6",
 		"wpackagist-plugin/appointment-hour-booking": "1.*",
 		"wpackagist-plugin/duplicate-wp-page-post": "^2",
