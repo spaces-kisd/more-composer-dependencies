@@ -6,63 +6,63 @@
 			"url": "https://wpackagist.org"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-wpmuldap"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-spaces-customize"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/ark"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-partneruniversities"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-archive-plugin"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-secure-file"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/stube"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-pforte"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-timeline"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-course-selection"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-mentoring"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/acf-user-network"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/ACF-Conditional-Taxonomy-Rules"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/acf-read-only"
 		},
 		{
-			"type": "git",
+			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-migrate-to-saml"
 		}
 	],
