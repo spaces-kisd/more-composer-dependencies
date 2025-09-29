@@ -31,15 +31,7 @@
 		},
 		{
 			"type": "vcs",
-			"url": "https://github.com/spaces-kisd/stube"
-		},
-		{
-			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-pforte"
-		},
-		{
-			"type": "vcs",
-			"url": "https://github.com/spaces-kisd/kisd-timeline"
 		},
 		{
 			"type": "vcs",
@@ -79,7 +71,6 @@
 		"spaces-kisd/kisd-pforte": "dev-main",
 		"spaces-kisd/kisd-secure-file": "dev-main",
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
-		"spaces-kisd/kisd-timeline": "dev-main",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
 		"wpackagist-plugin/advanced-custom-fields": "^6",
 		"wpackagist-plugin/appointment-hour-booking": "1.*",
