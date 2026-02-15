@@ -51,16 +51,11 @@
 		},
 		{
 			"type": "vcs",
-			"url": "https://github.com/spaces-kisd/acf-read-only"
-		},
-		{
-			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-migrate-to-saml"
 		}
 	],
 	"require": {
 		"mattkeys/acf-conditional-taxonomy-rules": "dev-master",
-		"quantity-digital/acf-read-only": "dev-master",
 		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
