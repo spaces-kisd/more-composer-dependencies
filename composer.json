@@ -1,9 +1,10 @@
 {
 	"name": "spaces/more-composer-dependencies",
 	"repositories": [
-		{
+	{
+			"name": "wp-packages",
 			"type": "composer",
-			"url": "https://wpackagist.org"
+			"url": "https://repo.wp-packages.org"
 		},
 		{
 			"type": "vcs",
@@ -67,11 +68,11 @@
 		"spaces-kisd/kisd-secure-file": "dev-main",
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
-		"wpackagist-plugin/advanced-custom-fields": "^6",
-		"wpackagist-plugin/appointment-hour-booking": "1.*",
-		"wpackagist-plugin/duplicate-wp-page-post": "^2",
-		"wpackagist-plugin/relevanssi": "^4",
-		"wpackagist-plugin/safe-svg": "^2"
+		"wp-plugin/advanced-custom-fields": "^6",
+		"wp-plugin/appointment-hour-booking": "1.*",
+		"wp-plugin/duplicate-wp-page-post": "^2",
+		"wp-plugin/relevanssi": "^4",
+		"wp-plugin/safe-svg": "^2"
 	},
 	"minimum-stability": "dev"
 }
