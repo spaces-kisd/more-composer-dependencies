@@ -48,15 +48,10 @@
 		},
 		{
 			"type": "vcs",
-			"url": "https://github.com/spaces-kisd/ACF-Conditional-Taxonomy-Rules"
-		},
-		{
-			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/kisd-migrate-to-saml"
 		}
 	],
 	"require": {
-		"mattkeys/acf-conditional-taxonomy-rules": "dev-master",
 		"spaces-kisd/acf-user-network": "dev-main",
 		"spaces-kisd/ark": "dev-main",
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
@@ -68,7 +63,7 @@
 		"spaces-kisd/kisd-secure-file": "dev-main",
 		"spaces-kisd/kisd-spaces-customize": "dev-main",
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
-		"wp-plugin/advanced-custom-fields": "^6",
+		"wp-plugin/secure-custom-fields": "^6",
 		"wp-plugin/appointment-hour-booking": "1.*",
 		"wp-plugin/duplicate-wp-page-post": "^2",
 		"wp-plugin/relevanssi": "^4",
