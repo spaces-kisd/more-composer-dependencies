@@ -65,7 +65,6 @@
 		"spaces-kisd/kisd-wpmuldap": "dev-main",
 		"wp-plugin/secure-custom-fields": "^6",
 		"wp-plugin/appointment-hour-booking": "1.*",
-		"wp-plugin/duplicate-wp-page-post": "^2",
 		"wp-plugin/relevanssi": "^4",
 		"wp-plugin/safe-svg": "^2"
 	},
