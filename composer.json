@@ -45,10 +45,6 @@
 		{
 			"type": "vcs",
 			"url": "https://github.com/spaces-kisd/acf-user-network"
-		},
-		{
-			"type": "vcs",
-			"url": "https://github.com/spaces-kisd/kisd-migrate-to-saml"
 		}
 	],
 	"require": {
@@ -57,7 +53,6 @@
 		"spaces-kisd/kisd-archive-plugin": "dev-main",
 		"spaces-kisd/kisd-course-selection": "dev-main",
 		"spaces-kisd/kisd-mentoring": "dev-main",
-		"spaces-kisd/kisd-migrate-to-saml": "dev-main",
 		"spaces-kisd/kisd-partneruniversities": "dev-master",
 		"spaces-kisd/kisd-pforte": "dev-main",
 		"spaces-kisd/kisd-secure-file": "dev-main",
